@@ -19,9 +19,11 @@ Setting up the server
 ---------------------
 To set up the server, you need to define various settings in ifdtc/settings.py
 Django has a good set of documentation on setting up your settings.py file for your needs
+
 	https://docs.djangoproject.com/en/dev/topics/settings/
 
 There's also a reference for any command available in the settings.py:
+
 	https://docs.djangoproject.com/en/dev/ref/settings/
 
 I would also recommend running the following command, and then replacing the ifdtc/settings.py that comes in this git with the new ifdtc/settings.py
