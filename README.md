@@ -44,14 +44,12 @@ Twitter runs as a passthrough from the mobile app, where the mobile app defines 
 To do that:
 
 * Open twitter/views.api
-* Set the following variables with the values you get from Twitter's API v2 on a twitter dev account
+
+Set the following variables with the values you get from Twitter's API v2 on a twitter dev account:
 
     consumer_key = ''
-    
     consumer_secret = ''
-    
     access_token_key = ''
-    
     access_token_secret = ''
 	
 
