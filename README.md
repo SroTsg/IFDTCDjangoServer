@@ -6,7 +6,9 @@ The Django backend for the IFDTC app
 Install dependencies:
 ---------------------
 Install Python 3.3+
+
 Install pip
+
 Make sure python33 and python33/scripts are in your path
 
 	pip install django
