@@ -41,6 +41,7 @@ When you syncdb without changing any settings, it will default to a SQLite datab
 Setting up twitter
 ------------------
 Twitter runs as a passthrough from the mobile app, where the mobile app defines the twitter query.  You need to setup the twitter API here though
+
 To do that:
 
 * Open twitter/views.api
